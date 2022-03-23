@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 小达伦的文集</title>
+    <title>Categories on 随想</title>
     <link>https://littledarren.github.io/categories/</link>
-    <description>Recent content in Categories on 小达伦的文集</description>
+    <description>Recent content in Categories on 随想</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://littledarren.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
